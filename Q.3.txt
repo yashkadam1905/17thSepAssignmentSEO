@@ -1,0 +1,44 @@
+Q.3 What are the Benefits of Using Meta Tags.
+Ans.The Benefits of using Meta tags are as follows:
+
+ SEO - (Search Engine Optimization): Meta tags, such as the "description" and "keywords" tags, can help
+improve a webpage's visibility on search engine result pages (SERPs).
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Online Courses - Learn to code anywhere, anytime | PW Skills</title>
+<meta
+name="title"
+content="Online Courses - Learn to Code Anywhere, Anytime | PW Skills"
+/>
+<meta
+name="description"
+content="PW Skills - A One Stop Tech Solution where all your skills get sharpened and
+learn from the best tutors around the world that can easily boost your career."
+/>
+<meta name="author" content="PW Skills" />
+<meta
+name="robots"
+content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+/>
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body></body>
+</html>
+Assignment Solution
+
+Full Stack Web Development
+
+B Social Media Sharing - Meta tags like the Open Graph Protocol tags allow developers to control how web
+pages are displayed when shared on social media platforms like Facebook, Twitter, and LinkedIn.Z
+B Character Encoding and Language - The meta tag specifying the character encoding (e.g., .TF-8) ensures
+that the browser interprets the text correctly, especially when dealing with special characters or multilingual
+
+content-
+B Viewport control - The viewport meta tag is crucial for responsive web design-
+B HTTP-Equiv tags - Meta tags with http-equiv attribute (e.g., <meta http-equiv="refresh">) enable specific
+
+HTTP header functionalities, like refreshing or redirecting the page after a certain time.
